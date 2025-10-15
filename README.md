@@ -1,7 +1,6 @@
 # 💰 Personal Budget Tracker CLI
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Interface](https://img.shields.io/badge/Interface-CLI-lightgrey?logo=terminal)
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-orange?logo=plotly)
 
@@ -133,6 +132,5 @@ Enter your choice: 1
 ## 👨‍💻 Author & License
 
 **Author:** [Aditya Raj Gaur](https://github.com/)  
-**License:** MIT  
 
 > 💡 *Open for contributions and suggestions!*  
